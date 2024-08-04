@@ -29,5 +29,9 @@ https://akiya-research-institute.github.io/WhisperRealtime-Manual/ja/
 上記のプラグインを使用していますので、  
 ゲーム開発を行う場合は、プラグインをインストールする必要があります。  
 
-  
+# 遊べる成果物
+ver 0.0.4がデバッグモードで文字の表示があるバージョンです。  
+ver 0.1.0が文字が表示されていないバージョンです。  
+https://drive.google.com/drive/folders/1eru17t7aOaPUljT4GDtghoeVatLFuM5s?usp=sharing
+
   
